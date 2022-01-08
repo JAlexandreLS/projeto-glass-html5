@@ -13,6 +13,6 @@ section#conteudo {
     
 }
 
-iframe#frame-spec::-webkit-scrollbar{
+iframe#frame-spec::-webkit-scrollbar {
     display: none;
 }
